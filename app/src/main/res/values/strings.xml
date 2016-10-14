@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Contador de vides</string>
+    <string name="action_reset">Reset</string>
+    <string name="snackbar_text">Estás segur de reiniciar?</string>
+    <string name="snackbar_action">Aceptar</string>
+</resources>
